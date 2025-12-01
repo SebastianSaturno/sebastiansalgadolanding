@@ -15,17 +15,25 @@ Estilos claros y organizados en un archivo CSS separado.
 
 Compatible con todos los navegadores modernos.
 
-
 📁 Estructura del proyecto
 /project-folder
+
 │── index.html
+
 │── styles.css
+
 │── script.js        (opcional)
+
 └── /assets
+
     ├── /img
+    
     │     ├── auricular1.jpg
+    
     │     ├── auricular2.jpg
+    
     │     └── ...
+    
     └── /icons
 
 
