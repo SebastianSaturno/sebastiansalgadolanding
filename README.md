@@ -15,6 +15,7 @@ Estilos claros y organizados en un archivo CSS separado.
 
 Compatible con todos los navegadores modernos.
 
+
 📁 Estructura del proyecto
 /project-folder
 │── index.html
@@ -26,6 +27,7 @@ Compatible con todos los navegadores modernos.
     │     ├── auricular2.jpg
     │     └── ...
     └── /icons
+
 
 🔧 Tecnologías utilizadas
 
@@ -55,7 +57,3 @@ Los textos del catálogo de auriculares.
 Los colores y fuentes desde el archivo CSS.
 
 Imágenes desde la carpeta /assets/img.
-
-📄 Licencia
-
-Proyecto libre para uso educativo o personal.
